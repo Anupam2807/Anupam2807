@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://dev-anupam.vercel.app](https://dev-anupam.vercel.app)
 
-- 💬 Ask me about **React,Node,Javascript,Typescript**
+- 💬 Ask me about **React,Node,Javascript,Typescript,Web Scraping**
 
 - 📫 How to reach me **sranupam28@gmail.com**
 
